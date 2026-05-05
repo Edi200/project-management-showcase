@@ -50,3 +50,7 @@ Server-rendered invite join page with auth redirect preservation.
 * next-themes (dark/light mode)
 * Sonner (toast notifications)
 * Vercel (deployment)
+
+## Screenshot
+
+![Project Management](internal-project-management.png)
